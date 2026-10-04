@@ -1,0 +1,14 @@
+{
+  "type": "FeatureCollection",
+  "name": "星海示例市",
+  "features": [
+    {"type":"Feature","properties":{"id":"R01","name":"中央区","virtual":true},"geometry":{"type":"Polygon","coordinates":[[[103.0,33.0],[106.0,33.0],[106.3,34.5],[105.8,37.0],[103.2,37.0],[102.8,35.0],[103.0,33.0]]]}},
+    {"type":"Feature","properties":{"id":"R02","name":"东城区","virtual":true},"geometry":{"type":"Polygon","coordinates":[[[106.0,33.0],[109.0,33.2],[109.5,34.8],[109.0,37.0],[105.8,37.0],[106.3,34.5],[106.0,33.0]]]}},
+    {"type":"Feature","properties":{"id":"R03","name":"西城区","virtual":true},"geometry":{"type":"Polygon","coordinates":[[[100.0,33.4],[102.8,33.0],[103.2,37.0],[100.3,37.3],[99.7,35.2],[100.0,33.4]]]}},
+    {"type":"Feature","properties":{"id":"R04","name":"南城区","virtual":true},"geometry":{"type":"Polygon","coordinates":[[[103.0,30.0],[106.0,30.3],[106.0,33.0],[103.0,33.0],[102.6,31.5],[103.0,30.0]]]}},
+    {"type":"Feature","properties":{"id":"R05","name":"北城区","virtual":true},"geometry":{"type":"Polygon","coordinates":[[[103.2,37.0],[105.8,37.0],[106.1,40.0],[104.5,40.4],[102.7,39.0],[103.2,37.0]]]}},
+    {"type":"Feature","properties":{"id":"R06","name":"大学城","virtual":true},"geometry":{"type":"Polygon","coordinates":[[[100.2,30.2],[103.0,30.0],[102.6,31.5],[102.8,33.0],[100.0,33.4],[99.5,31.8],[100.2,30.2]]]}},
+    {"type":"Feature","properties":{"id":"R07","name":"高新区","virtual":true},"geometry":{"type":"Polygon","coordinates":[[[105.8,37.0],[109.0,37.0],[109.3,39.5],[106.1,40.0],[105.8,37.0]]]}},
+    {"type":"Feature","properties":{"id":"R08","name":"机场新区","virtual":true},"geometry":{"type":"Polygon","coordinates":[[[106.0,30.3],[109.5,30.0],[110.0,32.0],[109.0,33.2],[106.0,33.0],[106.0,30.3]]]}}
+  ]
+}

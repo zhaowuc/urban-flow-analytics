@@ -1,0 +1,37 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+frontend/node_modules/
+frontend/dist/
+release/
+data/upload/*
+data/raw/*
+data/clean/*
+data/parquet/*
+data/stream/inbox/*
+data/result/*
+logs/*
+models/*
+!data/upload/.gitkeep
+!data/raw/.gitkeep
+!data/clean/.gitkeep
+!data/parquet/.gitkeep
+!data/stream/inbox/.gitkeep
+!data/result/.gitkeep
+!logs/.gitkeep
+!models/.gitkeep
+
+
+# Local runtimes and generated working files
+/runtime/
+/work/
+.env
+.env.*
+!.env.example
+.secret
+
+# Local application database
+/data/database/

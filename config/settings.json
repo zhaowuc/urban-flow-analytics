@@ -1,0 +1,14 @@
+{
+  "app_name": "城市出行客流数据分析系统",
+  "host": "127.0.0.1",
+  "port": 8765,
+  "spark_master": "local[*]",
+  "spark_driver_memory": "2g",
+  "demo_seed": 20260827,
+  "demo_rows": 60000,
+  "warning_thresholds": {
+    "yellow": 0.6,
+    "orange": 0.8,
+    "red": 1.0
+  }
+}

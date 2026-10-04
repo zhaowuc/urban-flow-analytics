@@ -1,0 +1,26 @@
+{
+  "name": "urban-flow-console",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "e2e": "playwright test"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "2.3.2",
+    "axios": "1.11.0",
+    "echarts": "5.6.0",
+    "element-plus": "2.11.1",
+    "pinia": "3.0.3",
+    "vue": "3.5.20",
+    "vue-router": "4.5.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.55.0",
+    "@vitejs/plugin-vue": "6.0.1",
+    "vite": "7.1.3"
+  }
+}
